@@ -1,0 +1,5 @@
+*! version 1.0.0
+version 16
+net from https://github.com/biancamanago/introStats/ttest_table.ado
+
+net install ttest_table, all replace
